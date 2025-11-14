@@ -1,0 +1,133 @@
+# Environment & Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE & Editors
+.vscode/
+.idea/
+.pycharm/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Linting & Type Checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pylint
+.flake8
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Logs
+*.log
+logs/
+conversion.log
+debug.log
+
+# Project-specific (Images & Output)
+/input_images/
+/output_images/
+/temp/
+/cache/
+*.HEIC
+*.heic
+*.HEIF
+*.heif
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.webp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+.directory
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.~*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE config (project-specific)
+.vscode/settings.json
+.vscode/launch.json
+
+# MacOS
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Misc
+*.zip
+*.tar.gz
+node_modules/
+package-lock.json
+yarn.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# CI/CD
+.github/workflows/temp/
+.gitlab-ci/temp/
+
+# Build artifacts
+*.exe
+*.dll
