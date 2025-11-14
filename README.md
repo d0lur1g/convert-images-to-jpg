@@ -480,7 +480,7 @@ Pour signaler un bug ou proposer une amélioration :
 
 ## 📞 Auteur
 
-Développé par **Ludo** - 2025
+Développé par **d0lur1g** - 2025
 
 Basé sur Clean Architecture et SOLID principles.
 
